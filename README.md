@@ -2,7 +2,7 @@
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  <img height="150" src="https://github.com/OeGiaretta/OeGiaretta/blob/main/Personagem.gif" align="right" style="margin-right: 30px;" />
+  <img height="150" src="https://i.postimg.cc/XYR40pLd/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9jenabg7kf1dtrjfw3.png" align="right" style="margin-right: 30px;" />
   </div>
 
 
