@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Giaretta!
 
 <div align="center">
+  <img height="150" src="https://i.postimg.cc/zGX0Xjt1/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9ked2bkd2m8mmbgx9v-removebg-preview.png" />
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  <img height="150" src="https://i.postimg.cc/XYR40pLd/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9jenabg7kf1dtrjfw3.png" align="right" style="margin-right: 30px;" />
-  </div>
-
+  <img height="150" src="https://i.postimg.cc/SQY0myXG/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9jenabg7kf1dtrjfw3-removebg-preview.png" />
+</div>
 
 ## 👨‍💻 Sobre mim
 - 🚀 Dev focado em desafios e aprendizado...  
