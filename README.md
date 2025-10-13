@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Giaretta!
 
-[![An image of @oegiaretta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oegiaretta)](https://holopin.io/@oegiaretta)
-
-##
 <div align="center">
   <img height="150" src="https://i.postimg.cc/zGX0Xjt1/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9ked2bkd2m8mmbgx9v-removebg-preview.png" />
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
