@@ -1,5 +1,8 @@
 # 👋 Hey, I'm Giaretta!
 
+[![An image of @oegiaretta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oegiaretta)](https://holopin.io/@oegiaretta)
+
+##
 <div align="center">
   <img height="150" src="https://i.postimg.cc/zGX0Xjt1/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9ked2bkd2m8mmbgx9v-removebg-preview.png" />
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -81,6 +84,5 @@
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OeGiaretta&theme=tokyonight">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OeGiaretta&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
 
 
