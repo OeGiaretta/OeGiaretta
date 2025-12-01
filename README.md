@@ -77,7 +77,6 @@
 
 ## 📊 Dashboard
 <div align="center">
-
   ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=OeGiaretta&theme=tokyonight)
   
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OeGiaretta&theme=tokyonight">
@@ -85,4 +84,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OeGiaretta&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<img src="https://media1.tenor.com/m/-XBRBRUMWusAAAAC/purple-flow.gif" width="100%" alt="Banner" />
 
