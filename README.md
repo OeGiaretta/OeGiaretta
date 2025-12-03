@@ -77,7 +77,6 @@
 
 ## 📊 Dashboard
 <div align="center">
-  ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=OeGiaretta&theme=tokyonight)
   
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OeGiaretta&theme=tokyonight">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OeGiaretta&theme=tokyonight">
