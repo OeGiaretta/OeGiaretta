@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Giaretta!
 
-**🇧🇷 [Read in Portuguese](README_PT.md)** | **🇺🇸 Read in English**
+**🇧🇷 Leia em Português** | **🇺🇸 [Read in English](README.md)**
 
 [![An image of @oegiaretta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oegiaretta)](https://holopin.io/@oegiaretta)
 
@@ -11,12 +11,12 @@
   <img height="150" src="https://i.postimg.cc/SQY0myXG/20250826-1141-Mascote-Futurista-Neon-remix-01k3kd2g9jenabg7kf1dtrjfw3-removebg-preview.png" />
 </div>
 
-## 👨‍💻 About me
-- 🚀 Dev focused on challenges and learning...  
-- 📊 Interested in acquiring as much knowledge as possible.
-- 🎯 Always seeking to combine technology + creativity  
+## 👨‍💻 Sobre mim
+- 🚀 Dev focado em desafios e aprendizado...  
+- 📊 Interesse em adquirir o máximo de conhecimento possivel.
+- 🎯 Sempre buscando unir tecnologia + criatividade  
 
-## 🌍 Where to find me
+## 🌍 Onde me encontrar
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="devto logo"  />
 </div>
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -67,9 +67,9 @@
   
   ```bash
   > run profile.exe
-  Loading...
+  Carregando...
   [████████████████████] 100%
-  Access granted ✅
+  Acesso concedido ✅
   ```
 
 <div align="center">  
@@ -87,4 +87,5 @@
 
 ##
 <img src="https://media1.tenor.com/m/-XBRBRUMWusAAAAC/purple-flow.gif" width="100%" alt="Banner" />
+
 
